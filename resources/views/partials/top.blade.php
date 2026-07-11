@@ -6,7 +6,7 @@
         <ul>
           <li><a href="index.php">Trang Chủ</a></li>
           <li><a href="products.php">Sản Phẩm</a></li>
-          <li><a href="about.php" class="active">Giới Thiệu</a></li>
+          <li><a href="about.php">Giới Thiệu</a></li>
           <li><a href="support.php">Hỗ Trợ</a></li>
         </ul>
         <div class="nav-actions">
