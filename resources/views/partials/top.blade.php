@@ -4,10 +4,10 @@
           <i class="fas fa-bolt"></i> MyStore
         </a>
         <ul>
-          <li><a href="index.php">Trang Chủ</a></li>
-          <li><a href="products.php">Sản Phẩm</a></li>
-          <li><a href="about.php">Giới Thiệu</a></li>
-          <li><a href="support.php">Hỗ Trợ</a></li>
+          <li><a href="{{url('/')}}">Trang Chủ</a></li>
+          <li><a href="{{url('products.php')}}">Sản Phẩm</a></li>
+          <li><a href="{{url('about.php')}}">Giới Thiệu</a></li>
+          <li><a href="{{url('support.php')}}">Hỗ Trợ</a></li>
         </ul>
         <div class="nav-actions">
           <button class="theme-toggle" aria-label="Toggle Theme">

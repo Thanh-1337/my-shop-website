@@ -40,10 +40,10 @@
             <div class="quote-icon"><i class="fas fa-quote-left"></i></div>
             <p>"Bàn phím Nebula gõ cực kỳ êm tay, switch được lube sẵn rất mượt. Dịch vụ chăm sóc khách hàng và vận chuyển của MyStore vô cùng nhanh chóng."</p>
             <div class="reviewer">
-              <div class="reviewer-avatar"><i class="fas fa-user-check"></i></div>
+              <div class="reviewer-avatar"><img src="{{ asset('images/ronaldo.jpg') }}" alt=""></div>
               <div class="reviewer-info">
-                <h4>Nguyễn Chí Thanh</h4>
-                <p>Software Engineer</p>
+                <h4>Cristiano Ronaldo</h4>
+                <p>football player</p>
               </div>
             </div>
           </div>
@@ -52,10 +52,10 @@
             <div class="quote-icon"><i class="fas fa-quote-left"></i></div>
             <p>"Tai nghe SonicWave chống ồn rất tốt, giúp tôi hoàn toàn tập trung vào code trong văn phòng ồn ào. Pin dùng cả tuần chưa hết. Rất đáng tiền."</p>
             <div class="reviewer">
-              <div class="reviewer-avatar"><i class="fas fa-user-check"></i></div>
+              <div class="reviewer-avatar"><img src="{{ asset('images/Messi.jpg') }}" alt=""></i></div>
               <div class="reviewer-info">
-                <h4>Nguyễn Chí Nên</h4>
-                <p>Backend Developer</p>
+                <h4>Lionel Messi</h4>
+                <p>football player</p>
               </div>
             </div>
           </div>
@@ -64,10 +64,10 @@
             <div class="quote-icon"><i class="fas fa-quote-left"></i></div>
             <p>"Sản phẩm đóng gói đẹp, cẩn thận. Đồng hồ thông minh ChronoFit đo các chỉ số sức khỏe khá chuẩn xác. Sẽ tiếp tục ủng hộ cửa hàng trong tương lai."</p>
             <div class="reviewer">
-              <div class="reviewer-avatar"><i class="fas fa-user-check"></i></div>
+              <div class="reviewer-avatar"><img src="{{ asset('images/elonmusk.jpg') }}" alt=""></div>
               <div class="reviewer-info">
-                <h4>Nguyễn Chí Anti</h4>
-                <p>UI/UX Designer</p>
+                <h4>Elon Musk</h4>
+                <p>Entrepreneur</p>
               </div>
             </div>
           </div>
