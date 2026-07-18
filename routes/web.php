@@ -2,7 +2,9 @@
 
 use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ProductController;
 
+Route::get('/products', [ProductController::class, 'index']);
 Route::get('/', [HomeController::class,'index']);
 Route::get('products.php',[HomeController::class,'products']);
 Route::get('about.php',[HomeController::class,'about']);
